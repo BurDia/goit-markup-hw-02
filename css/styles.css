@@ -97,7 +97,7 @@
     letter-spacing: 0.04em;
     text-transform: uppercase;
     cursor: pointer;
-    background-color: #4D5AE5
+    background-color: #4D5AE5;
     color: #FFFFFF;
     }
 .modal-btn:is(:hover, :focus){
