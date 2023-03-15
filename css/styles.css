@@ -84,6 +84,10 @@
     letter-spacing: 0.02em;
     color: #434455;
 }
+.address-link:is(:hover, :focus){
+    color: #404bbf ;
+
+}
 .modal-btn {
     font-family:"Roboto",sans-serif;
     font-style: Medium;
@@ -95,9 +99,8 @@
     cursor: pointer;
     color: #FFFFFF;
     }
-.modal-btn:hover,
-.modal-btn:focus{
-    background-color: #4D5AE5;
+.modal-btn:is(:hover, :focus){
+    background-color: #404BBF ;
     color: #773838
 }
 .media-list{ 
