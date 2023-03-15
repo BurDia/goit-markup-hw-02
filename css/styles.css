@@ -10,8 +10,10 @@
     font-family: "Roboto",sans-serif;
     font-style: Bold;
     font-size: 56px;
-    line-height: 1,07;
-   color: #FFFFFF;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #FFFFFF;
 
 }
 .body {
@@ -22,7 +24,7 @@
 .menu-link {
     font-family: "Roboto",sans-serif;
     font-style: normal;
-    font-weight: 400; 
+    font-weight: 500; 
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -61,7 +63,7 @@
     color: #2E2F42;
     
 }
-.color-studio-fut{
+.color-stud {
     font-family: "Raleway",sans-serif;
     font-weight: 800; 
     font-size: 18px;
@@ -85,14 +87,14 @@
 .modal-btn {
     font-family:"Roboto",sans-serif;
     font-style: Medium;
-    font-weight: 400; 
+    font-weight: 500; 
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.04em;
     text-transform: uppercase;
     cursor: pointer;
     color: #FFFFFF;
-}
+    }
 .modal-btn:hover,
 .modal-btn:focus{
     background-color: #4D5AE5;
