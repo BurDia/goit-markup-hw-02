@@ -14,12 +14,17 @@
    color: #FFFFFF;
 
 }
+.body {
+    font-family: "Roboto",sans-serif;
+    color: #434455;
+}
+
 .menu-link {
     font-family: "Roboto",sans-serif;
     font-style: normal;
     font-weight: 400; 
     font-size: 16px;
-    line-height: 1,5;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
@@ -31,14 +36,15 @@
     font-family: "Raleway",sans-serif;
     font-weight: 800; 
     font-size: 18px;
-    line-height:1,17;
+    line-height: 1.17;
     letter-spacing: 0.03em;
+    text-transform: uppercase;
     text-decoration: none;
     color:  #4D5AE5;;
     
 }
 .color-logo{
-    line-height: 1,17;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     text-decoration: none;
@@ -48,21 +54,23 @@
     font-family: "Raleway",sans-serif;
     font-weight: 800; 
     font-size: 18px;
-    line-height: 1,17;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #2E2F42;
     text-decoration: none;
+    color: #2E2F42;
+    
 }
 .color-studio-fut{
     font-family: "Raleway",sans-serif;
     font-weight: 800; 
     font-size: 18px;
-    line-height: 1,17;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #F4F4FD;
     text-decoration: none;
+    color: #F4F4FD;
+    
 }
 .address-link
  { 
@@ -70,7 +78,7 @@
     font-style: normal;
     font-weight: 400; 
     font-size: 16px;
-    line-height: 1,5;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
@@ -79,7 +87,7 @@
     font-style: Medium;
     font-weight: 400; 
     font-size: 16px;
-    line-height: 1,5;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     text-transform: uppercase;
     cursor: pointer;
@@ -95,7 +103,7 @@
 font-family:"Roboto",sans-serif;
 font-style: Medium;
 font-size: 20px;
-line-height:1,2; 
+line-height:1.2; 
 color:#2E2F42;
 }
 .footer-text{
