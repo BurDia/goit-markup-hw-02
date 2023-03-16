@@ -1,14 +1,20 @@
+.root{
+    --primary-font: "Open Sans", sans-serif;
+    --secondary-font: "Raleway", sans-serif
+    --accent-color:#773838;
+}
 .list  {
     list-style: none;
 }
 .link { text-decoration: none;
 }
 .hero{
+    font-style: Normal;
     background-color: #2E2F42;
 }
 .hero-title{
     font-family: "Roboto",sans-serif;
-    font-style: Bold;
+    font-style: Normal;
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
