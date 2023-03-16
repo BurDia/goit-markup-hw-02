@@ -32,7 +32,7 @@
 }
 .menu-link:hover,
 .menu-link:focus{
-    color: var(--modal-btn-backgraund-color);
+    color:  #404BBF;
 }
 .logo{
     font-family: "Raleway",sans-serif;
