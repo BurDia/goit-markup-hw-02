@@ -167,7 +167,7 @@ background-color: #FFFFFF;
     }
 .modal-btn:is(:hover, :focus){
     background-color: #404BBF ;
-    color: #773838
+    color: var(--accent-color);
 }
 .media-list{ 
     
