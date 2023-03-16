@@ -24,7 +24,7 @@
 
 .menu-link {
     font-family: "Roboto",sans-serif;
-    font-style:normal;
+    font-style: Normal;
     font-weight: 500; 
     font-size: 16px;
     line-height: 1.5;
@@ -66,6 +66,35 @@
     color:  #4D5AE5;;
     
 }
+.subtitle-section{
+    font-family: "Roboto",sans-serif;
+    font-style: Bold;
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    text-transform: capitalize;
+    color: #2E2F42;
+}
+.item{
+    font-family: "Roboto",sans-serif;
+    font-style: Medium;
+    font-size:  20px;
+    line-height: 1.2;
+    letter-spacing: 0.03em;
+     color: #2E2F42;
+}
+.item-text{
+    font-family: "Roboto",sans-serif;
+    font-style:  Regular;
+    font-size:  16px;
+    line-height: 1.5;
+    letter-spacing: 0.03em;
+     color: #434455;
+}
+
+.resourses{
+    background-color: #F4F4FD;
+}
 .color-logo{
     line-height: 1.17;
     letter-spacing: 0.03em;
@@ -98,7 +127,7 @@
 .address-link
  { 
     font-family: "Roboto",sans-serif;
-    font-style: normal;
+    font-style: Normal;
     font-weight: 400; 
     font-size: 16px;
     line-height: 1.5;
