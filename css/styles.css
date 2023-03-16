@@ -37,8 +37,10 @@
 }
 .subtitle{
     font-style: Medium;
+    font-weight: 500; 
     font-size: 20px;
     line-height: 1.2;
+    letter-spacing: 0.02em;
     color:#2E2F42 ;
 
 }
@@ -46,8 +48,10 @@
      
     font-family: "Roboto",sans-serif;
     font-style: Regular;
+    font-weight: 500; 
     font-size: 16px;
     line-height: 1.5;
+    letter-spacing: 0.02em;
     color:#434455 ;
 
 }
