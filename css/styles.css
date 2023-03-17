@@ -155,6 +155,13 @@ background-color: #FFFFFF;
     font-style: normal;
     
 }
+.header-address,
+.address-list,
+.header-mail-list,
+.header-tel-list {
+ font-style: normal   
+}
+
 .modal-btn {
     font-family:"Roboto",sans-serif;
     font-style: Medium;
