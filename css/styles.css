@@ -7,12 +7,12 @@
 .link { text-decoration: none;
 }
 .hero{
-    font-style: Normal;
+    font-style:normal;
     background-color: #2E2F42;
 }
 .hero-title{
     font-family: "Roboto", sans-serif;
-    font-style: Normal;
+    font-style:normal;
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
@@ -28,7 +28,7 @@
 
 .menu-link {
     font-family: "Open Sans", sans-serif;
-    font-style: Normal;
+    font-style:normal;
     font-weight: 500; 
     font-size: 16px;
     line-height: 1.5;
@@ -41,7 +41,7 @@
 }
 .subtitle{
     font-family: "Open Sans", sans-serif;
-    font-style: Medium;
+    font-style:medium;
     font-weight: 500; 
     font-size: 20px;
     line-height: 1.2;
@@ -52,7 +52,7 @@
 .text{
      
     font-family: "Open Sans", sans-serif;
-    font-style: Regular;
+    font-style:regular;
     font-weight: 500; 
     font-size: 16px;
     line-height: 1.5;
@@ -61,7 +61,7 @@
 
 }
 .logo{
-    font-family: "Raleway",sans-serif;
+    font-family:"Raleway",sans-serif;
     font-weight: 800; 
     font-size: 18px;
     line-height: 1.17;
@@ -72,7 +72,7 @@
     
 }
 .subtitle-section{
-    font-family: "Open Sans", sans-serif;
+    font-family:"Open Sans",sans-serif;
     font-weight: 500; 
     font-size: 36px;
     line-height: 1.11;
@@ -82,8 +82,8 @@
     color: #2E2F42;
 }
 .item{
-    font-family: "Open Sans", sans-serif;
-    font-style: Medium;
+    font-family: "Open Sans",sans-serif;
+    font-style:medium;
     font-weight: 500; 
     font-size:  20px;
     line-height: 1.2;
@@ -92,7 +92,7 @@
 }
 .item-text{
     font-family: "Open Sans",sans-serif;
-    font-style:  Regular;
+    font-style:regular;
     font-weight: 500; 
     font-size:  16px;
     line-height: 1.5;
@@ -149,7 +149,7 @@ background-color: #FFFFFF;
     color: #434455;
 }
 .address-link:is(:hover, :focus){
-    color: #404bbf ;
+    color: #404bbf;
     font-style: normal;
     
 }
@@ -162,7 +162,7 @@ background-color: #FFFFFF;
 
 .modal-btn {
     font-family:"Roboto", sans-serif;
-    font-style: Medium;
+    font-style:medium;
     font-weight: 500; 
     font-size: 16px;
     line-height: 1.5;
@@ -178,8 +178,8 @@ background-color: #FFFFFF;
 }
 .media-list{ 
     
-font-family:"Roboto",sans-serif;
-font-style: Medium;
+font-family:"Roboto", sans-serif;
+font-style:medium;
 font-size: 20px;
 line-height:1.2; 
 color:#2E2F42;
@@ -188,8 +188,8 @@ color:#2E2F42;
     background-color: #F4F4FD;
 }
 .footer-text{
-    font-family:"Roboto",sans-serif;
-    font-style: Regular;
+    font-family:"Roboto", sans-serif;
+    font-style:regular;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -223,7 +223,7 @@ color:#2E2F42;
 }
 .btn-links{
     font-family:"Roboto",sans-serif;
-    font-style: normal;
+    font-style:normal;
     font-weight: 500; 
     font-size: 16px;
     line-height: 1.5;
