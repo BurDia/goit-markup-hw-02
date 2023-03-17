@@ -1,8 +1,5 @@
-.root{
-    --primary-font: "Open Sans", sans-serif;
-    --secondary-font: "Raleway", sans-serif;
-    --accent-color:#773838;
-    --accent-color-bg:#404BBF;
+.root {
+        --accent-color:#773838;
 }
 .list  {
     list-style: none;
@@ -14,7 +11,7 @@
     background-color: #2E2F42;
 }
 .hero-title{
-    font-family: var(--primary-font);
+    font-family: "Open Sans", sans-serif;
     font-style: Normal;
     font-size: 56px;
     line-height: 1.07;
@@ -24,13 +21,13 @@
 
 }
 .body {
-    font-family: var(--primary-font);
+    font-family: "Open Sans", sans-serif;
     background-color: #FFFFFF;
     color: #434455;
 }
 
 .menu-link {
-    font-family:var(--primary-font);
+    font-family: "Open Sans", sans-serif;
     font-style: Normal;
     font-weight: 500; 
     font-size: 16px;
@@ -43,7 +40,7 @@
     color:  #404BBF;
 }
 .subtitle{
-    font-family: var(--primary-font);
+    font-family: "Open Sans", sans-serif;
     font-style: Medium;
     font-weight: 500; 
     font-size: 20px;
@@ -54,7 +51,7 @@
 }
 .text{
      
-    font-family: var(--primary-font);
+    font-family: "Open Sans", sans-serif;
     font-style: Regular;
     font-weight: 500; 
     font-size: 16px;
@@ -75,7 +72,7 @@
     
 }
 .subtitle-section{
-    font-family: var(--primary-font);
+    font-family: "Open Sans", sans-serif;
     font-weight: 500; 
     font-size: 36px;
     line-height: 1.11;
@@ -85,7 +82,7 @@
     color: #2E2F42;
 }
 .item{
-    font-family: var(--primary-font);
+    font-family: "Open Sans", sans-serif;
     font-style: Medium;
     font-weight: 500; 
     font-size:  20px;
@@ -94,7 +91,7 @@
      color: #2E2F42;
 }
 .item-text{
-    font-family: var(--primary-font);
+    font-family: "Open Sans",sans-serif;
     font-style:  Regular;
     font-weight: 500; 
     font-size:  16px;
@@ -143,7 +140,7 @@ background-color: #FFFFFF;
 }
 .address-link
  { 
-    font-family: var(--primary-font);
+    font-family: "Open Sans", sans-serif;
     font-style:normal;
     font-weight: 400; 
     font-size: 16px;
@@ -164,7 +161,7 @@ background-color: #FFFFFF;
 }
 
 .modal-btn {
-    font-family:var(--primary-font);
+    font-family:"Open Sans", sans-serif;
     font-style: Medium;
     font-weight: 500; 
     font-size: 16px;
@@ -176,7 +173,7 @@ background-color: #FFFFFF;
     color: #FFFFFF;
     }
 .modal-btn:is(:hover, :focus){
-    background-color: var(--accent-color-bg);
+    background-color: #404BBF;
     color: var(--accent-color);
 }
 .media-list{ 
