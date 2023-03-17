@@ -1,5 +1,5 @@
-.root {
-        --accent-color:#773838;
+:root {
+     --accent-color:#773838;
 }
 .list  {
     list-style: none;
