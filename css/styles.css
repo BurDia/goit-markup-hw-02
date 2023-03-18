@@ -22,13 +22,14 @@
 }
 .body {
     font-family: "Roboto", sans-serif;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     background-color: #FFFFFF;
     color: #434455;
 }
 
 .menu-link {
-    font-family: "Open Sans", sans-serif;
-    font-style:normal;
+        font-style:normal;
     font-weight: 500; 
     font-size: 16px;
     line-height: 1.5;
@@ -40,7 +41,7 @@
     color:  #404BBF;
 }
 .subtitle{
-    font-family: "Open Sans", sans-serif;
+    
     font-style:medium;
     font-weight: 500; 
     font-size: 20px;
@@ -51,8 +52,7 @@
 }
 .text{
      
-    font-family: "Open Sans", sans-serif;
-    font-style:regular;
+    
     font-weight: 500; 
     font-size: 16px;
     line-height: 1.5;
@@ -72,7 +72,7 @@
     
 }
 .subtitle-section{
-    font-family:"Open Sans",sans-serif;
+    
     font-weight: 500; 
     font-size: 36px;
     line-height: 1.11;
@@ -82,7 +82,7 @@
     color: #2E2F42;
 }
 .item{
-    font-family: "Open Sans",sans-serif;
+   
     font-style:medium;
     font-weight: 500; 
     font-size:  20px;
@@ -91,7 +91,7 @@
      color: #2E2F42;
 }
 .item-text{
-    font-family: "Open Sans",sans-serif;
+    
     font-style:regular;
     font-weight: 500; 
     font-size:  16px;
@@ -140,7 +140,7 @@ background-color: #FFFFFF;
 }
 .address-link
  { 
-    font-family: "Open Sans", sans-serif;
+    
     font-style:normal;
     font-weight: 400; 
     font-size: 16px;
